@@ -146,7 +146,7 @@ public class XListView extends ListView implements OnScrollListener {
 	/**
 	 * enable or disable pull down refresh feature.
 	 * 
-	 * @param enable
+	 * @param
 	 */
 	public void setPullRefreshEnable(IXListViewRefreshListener refreshListener) {
 		mEnablePullRefresh = true;
@@ -165,7 +165,7 @@ public class XListView extends ListView implements OnScrollListener {
 	/**
 	 * enable or disable pull up load more feature.
 	 * 
-	 * @param enable
+	 * @param
 	 */
 	public void setPullLoadEnable(IXListViewLoadMore loadMoreListener) {
 		mEnablePullLoad = true;

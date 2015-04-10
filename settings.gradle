@@ -1,1 +1,1 @@
-include ':app', ':viewPagerlibrary', ':xListView', ':imageloadlibrary'
+include ':app', ':viewPagerlibrary', ':xListView', ':imageloadlibrary', ':gestureimageview'

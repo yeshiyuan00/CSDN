@@ -94,5 +94,6 @@
     <orderEntry type="module" module-name="viewPagerlibrary" exported="" />
     <orderEntry type="module" module-name="xListView" exported="" />
     <orderEntry type="module" module-name="imageloadlibrary" exported="" />
+    <orderEntry type="module" module-name="gestureimageview" exported="" />
   </component>
 </module>

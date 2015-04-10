@@ -26,7 +26,6 @@ import java.util.List;
  */
 public class NewsItemAdapter extends BaseAdapter {
 
-    public static final double DOUBLE = 80.;
     private LayoutInflater mInflater;
     private List<NewsItem> mDatas;
 
@@ -49,6 +48,12 @@ public class NewsItemAdapter extends BaseAdapter {
     }
 
     public void addAll(List<NewsItem> mDatas) {
+        this.mDatas.addAll(mDatas);
+    }
+
+    public void setDatas(List<NewsItem> mDatas)
+    {
+        this.mDatas.clear();
         this.mDatas.addAll(mDatas);
     }
 
@@ -93,7 +98,7 @@ public class NewsItemAdapter extends BaseAdapter {
             holder.mImg.setVisibility(View.GONE);
         }
 
-        return null;
+        return convertView;
     }
 
     private final class ViewHolder {

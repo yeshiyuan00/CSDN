@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CSDN.iml" filepath="$PROJECT_DIR$/CSDN.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestureimageview/gestureimageview.iml" filepath="$PROJECT_DIR$/gestureimageview/gestureimageview.iml" />
       <module fileurl="file://$PROJECT_DIR$/imageloadlibrary/imageloadlibrary.iml" filepath="$PROJECT_DIR$/imageloadlibrary/imageloadlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewPagerlibrary/viewPagerlibrary.iml" filepath="$PROJECT_DIR$/viewPagerlibrary/viewPagerlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/xListView/xListView.iml" filepath="$PROJECT_DIR$/xListView/xListView.iml" />
